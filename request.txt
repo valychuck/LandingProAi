@@ -1,0 +1,14 @@
+Iată ce este nevoie să faci în acest proiect (toate bullet-urile de mai jos sunt scrise de partenerul meu Andrei):
+Căutăm pe cineva care să transforme imaginea următoare, cu wireframe-ul de care avem nevoie (https://we.tl/t-F7ISVKl5tT ) și câteva altele în .HTML si .CSS fără a adăuga absolut nimic.
+Nu vrem un site din wireframe-ul acesta, vrem wireframe-ul 1:1 (poate cu unele modificări la aliniamente) ca un site în HTML CSS care să fie responsive pe toate dispozitivele.
+Fiecare secțiune (nav, hero, footer, etc.) vor fi un element <section> individual și va fi complet independent de celelalte elemente. Dacă scoatem oricare element, să pară ca niciodată nu a fost ceva acolo.
+Unde sunt cercurile albastre, trebuie să fie elemente <i> de la FontAwesome și să fie conectate la site prin CDN-ul lor.
+Unde scrie Video Sales Letter să fie un embed prin YouTube/Vimeo la un video.
+Unde scrie Image sa fie imagini care să nu faca stretch.
+La secțiunea FAQ să se extindă cu un text cu un font size cu 2px mai mic decât cel de la întrebare atunci când utilizatorul apasă pe plus sau pe acel <div>
+Ideal ar fi ca acest FAQ sa fie pure CSS ca în exemplu acesta: https://codepen.io/l3ale/pen/ZPmYpK (fără acea animație)
+Butoanele de pe site să aibă un efect pe hover și atunci când sunt apăsate să trimită pe un alt site.
+Cum se remunerează:
+Acesta este un rol în care luăm freelanceri pe bază de contract și factură. Pe scurt, ne emiți factura după executarea proiectului.
+Dacă ceea ce am scris mai sus îți surâde și ai vrea să lucrăm împreună, scrie „Dev” în comentarii și îți voi trimite un mesaj în privat cu formularul pe care să-l completezi pentru a face următorul pas.
+P.S.: Suntem în continuare un Start-up, fără finanțare externă, fonduri europene, VC sau altele (100% bootstrapped). Asta înseamnă că este important să ai în vedere că bugetele noastre pentru outsourcing sunt limitate.
